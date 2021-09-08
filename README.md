@@ -1,0 +1,2 @@
+# CrudInlineEdit
+Inline edit datatable
