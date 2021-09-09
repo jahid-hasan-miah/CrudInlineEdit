@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MvcAndApiProject\\CrudInlineEdit\\InlineEditingJobTask\\InlineEditingJobTask\\InlineEditingJobTask.csproj": {}
+  },
+  "projects": {
+    "D:\\MvcAndApiProject\\CrudInlineEdit\\InlineEditingJobTask\\InlineEditingJobTask\\InlineEditingJobTask.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MvcAndApiProject\\CrudInlineEdit\\InlineEditingJobTask\\InlineEditingJobTask\\InlineEditingJobTask.csproj",
+        "projectName": "InlineEditingJobTask",
+        "projectPath": "D:\\MvcAndApiProject\\CrudInlineEdit\\InlineEditingJobTask\\InlineEditingJobTask\\InlineEditingJobTask.csproj",
+        "packagesPath": "C:\\Users\\joyh3\\.nuget\\packages\\",
+        "outputPath": "D:\\MvcAndApiProject\\CrudInlineEdit\\InlineEditingJobTask\\InlineEditingJobTask\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "D:\\MvcAndApiProject\\CrudInlineEdit\\InlineEditingJobTask\\NuGet.Config",
+          "C:\\Users\\joyh3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\joyh3\\AppData\\Roaming\\Telerik\\Updates\\telerik.ui.for.aspnet.core.hotfix.2021.2.616.trial\\": {},
+          "C:\\Users\\joyh3\\AppData\\Roaming\\Telerik\\Updates\\telerik.ui.for.aspnet.core.hotfix.2021.2.616.trial\\wrappers\\aspnetcore\\Binaries\\AspNet.Core": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Telerik.UI.for.AspNet.Core.Trial": {
+              "target": "Package",
+              "version": "[2021.2.616, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
